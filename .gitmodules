@@ -1,0 +1,6 @@
+[submodule "service-manager-back"]
+	path = service-manager-back
+	url = https://github.com/hehmdalolkek/service-manager-back.git
+[submodule "service-manager-front"]
+	path = service-manager-front
+	url = https://github.com/hehmdalolkek/service-manager-front.git
